@@ -1,2 +1,3 @@
 # My Love Story
-Site: http://love.cuiqingcai.com/
+Site: gmartinet.com
+
