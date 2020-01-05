@@ -7,57 +7,59 @@ body {
 }
 
 #mainDiv {
-    width: 100%;
-    height: 100%
+    width: 70%;
+    height: 200%
 }
 
 #loveHeart {
-    float: left;
+    
     width: 670px;
-    height: 620px;
-    position: relative;
+    height: 1300px;
+
 }
 
 #garden {
-    width: 100%;
-    height: 100%
+    width: 70%;
+    height: 70%
 }
 
 #elapseClock {
     text-align: right;
-    font-size: 18px;
-    margin-top: 10px;
-    margin-bottom: 10px
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px
 }
 
 #words {
+	margin-top: 20px;
     font-family: "sans-serif";
-    width: 500px;
-    font-size: 24px;
+    width: 350px;
+    font-size: 18px;
     color: #666
 }
 
 #messages {
+	margin-top: 150px;
     display: none
 }
 
 #elapseClock .digit {
     font-family: "digit";
-    font-size: 36px
+    font-size: 22px
 }
 
 #loveu {
     padding: 5px;
-    font-size: 22px;
-    margin-top: 80px;
-    margin-right: 120px;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-right: 80px;
     text-align: right;
     display: none
 }
 
 #loveu .signature {
     margin-top: 10px;
-    font-size: 20px;
+    font-size: 18px;
     font-style: italic
 }
 
@@ -69,10 +71,10 @@ body {
     float: left;
     width: 440px;
     margin-top: 60px !important;
-    height: 400px;
+    height: 500px;
     color: #333;
     font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
-    font-size: 12px
+    font-size: 15px
 }
 
 #code .string {
@@ -97,7 +99,7 @@ body {
 }
 
 #copyright {
-    margin-top: 40px;
+    margin-top: 550px;
     text-align: center;
     width: 100%;
     color: #666
